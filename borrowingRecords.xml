@@ -1,0 +1,10 @@
+<borrowingRecords>
+    <record id="1">
+        <userId>2</userId>
+        <equipmentId>1</equipmentId>
+        <quantity>1</quantity>
+        <borrowDate>2025-02-11</borrowDate>
+        <dueDate>2025-02-18</dueDate>
+        <status>borrowed</status>
+    </record>
+</borrowingRecords>

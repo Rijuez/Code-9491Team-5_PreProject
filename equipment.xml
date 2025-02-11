@@ -1,0 +1,14 @@
+<equipment>
+    <item id="1">
+        <name>Projector</name>
+        <category>Electronics</category>
+        <quantity>5</quantity>
+        <status>available</status>
+    </item>
+    <item id="2">
+        <name>LAN Cable</name>
+        <category>Networking</category>
+        <quantity>10</quantity>
+        <status>available</status>
+    </item>
+</equipment>

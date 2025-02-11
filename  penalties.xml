@@ -1,0 +1,8 @@
+<penalties>
+    <penalty id="1">
+        <recordId>1</recordId>
+        <daysOverdue>2</daysOverdue>
+        <amount>20.00</amount>
+        <status>pending</status>
+    </penalty>
+</penalties>

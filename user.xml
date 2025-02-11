@@ -1,0 +1,14 @@
+<users>
+    <user id="1">
+        <name>John Doe</name>
+        <role>custodian</role>
+        <email>johndoe@example.com</email>
+        <phone>1234567890</phone>
+    </user>
+    <user id="2">
+        <name>Jane Smith</name>
+        <role>borrower</role>
+        <email>janesmith@example.com</email>
+        <phone>0987654321</phone>
+    </user>
+</users>
